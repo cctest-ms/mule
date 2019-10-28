@@ -1,3 +1,4 @@
+
 Mule Runtime is distributed under the terms of the Common Public Attribution 
 License (CPAL), whose definition follows below.  For information on the license
 type for each third-party software product used by Mule, refer to 
